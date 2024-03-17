@@ -2,10 +2,10 @@ export const BaseColaboradores = [
   {
     id: '1',
     nombre:'Juan Pablo Grau',
-    correo: 'juan@colaborador.com',
+    correo: 'juanpablograu@colaborador.com',
     edad:'43',
     cargo:' Desarrollador FrontEnd',
-    telefono: '99787874',
+    telefono: '976141976',
   },
   {
     id: '2',
