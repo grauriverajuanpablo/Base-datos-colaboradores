@@ -15,7 +15,7 @@ table {
 }
 
 tr:hover td {
-  background-color: #ddd;
+  background-color: #000ddd;
   transition: background-color 0.3s;
 }
 
